@@ -1,4 +1,5 @@
 # Manually created .gitignore file
 
+.vscode/
 design/
 build/
