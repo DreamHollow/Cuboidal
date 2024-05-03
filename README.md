@@ -56,6 +56,7 @@ but that kind of implementation isn't happening anytime soon; especially without
 help.
 
 **"Why are there so many files in game projects? Is it necessary?"**
+
 DH:
 Unfortunately, yeah. You might need slightly fewer files in a well optimized 2D game,
 but for 3D games you're usually going to see a lot of stuff.
