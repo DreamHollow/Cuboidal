@@ -107,8 +107,7 @@ Absolutely.
 Most of the time when I'm working on a project I benefit a lot more from having the program
 report to me what it's doing at the time of execution.
 
-It's like a psuedo trace system that leads me back to a relative location to figure out
-where something went wrong.
+It's like a psuedo trace system that leads me back to a relative location to figure out where something went wrong.
 
 I know I'll probably encounter bugs where this isn't as helpful but it works fine for now.
 
