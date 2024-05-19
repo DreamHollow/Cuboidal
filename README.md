@@ -23,7 +23,7 @@ HOW TO CONTRIBUTE
 ---
 
 Committing changes to this repo should be done as follows:
-Fork it. Seriously, I don't care.
+Fork and pull request. Please.
 
 Fork the project and submit a pull request from your repo. If the changes are compatible with the current version of the project, I'll bring them over.
 
